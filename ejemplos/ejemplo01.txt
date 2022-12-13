@@ -27,3 +27,15 @@
 17. Fin
 
 // Solución ciclo Mientras
+## tomo indice que inicia en 0 
+
+4. indice, i[0-n] <-0
+## remplazo el para por el mientras en la linea 12
+12. Mientras indice <=2 entonces
+13.	suma<- suma+notaEstudiante1[Indice]
+14.	suma<- suma+notaEstudiante2[Indice]
+15	indice<- indice +1
+16. Fin_mientras
+17 <<suma
+18. Fin
+
